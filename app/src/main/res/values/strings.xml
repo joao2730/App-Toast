@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toast</string>
+
+    <string name="btn1_text">Turn off flight mode</string>
+    <string name="btn2_text">Picture saved to gallery</string>
+    <string name="btn3_text">Level 4 Complete</string>
+    <string name="btn4_text">Updating profile</string>
+    <string name="btn5_text">Unlocked Level 5</string>
+    <string name="btn6_text">Music Paused</string>
+    <string name="text_msg">Funcionalidades de botones mediante toast</string>
+
+</resources>
